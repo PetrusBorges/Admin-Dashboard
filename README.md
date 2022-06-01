@@ -9,7 +9,7 @@ It was possible to have fundamental knowledge of HTML, CSS and JavaScript.
 
 [Admin Dashboard - Petrus Borges](https://petrusborges-admin-dashboard.netlify.app)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/169511338-8f9a8ef3-c9cb-48b7-88ad-fab313b9915c.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/171478554-ca2b2954-b0f0-461a-8202-1d40fe76aa9b.gif)
 
 ## 🛠️ Built with
 
